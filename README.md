@@ -8,6 +8,7 @@ Bu proje, bir eğitim kurumu için geliştirilen bir web sitesi tasarımını i�
 - Eğitmen Tanıtımları: Web sitesi, eğitmenlerin tanıtımlarını içeren kartlarla donatılmıştır. Kullanıcılar, eğitmenler hakkında bilgi edinebilir ve onların uzmanlık alanlarına göz atabilirler.
 - Eğitim Bilgi Sayfaları: Web sitesi, farklı eğitimler hakkında bilgi veren sayfalardan oluşmaktadır. Kullanıcılar, ilgilendikleri eğitimler hakkında ayrıntılı bilgilere erişebilirler.
 - Açılır/Kapanır Menü: Proje, kullanıcıların kolayca gezinme yapabilmeleri için açılır/kapanır bir menüye sahiptir. Menü, kullanıcının ihtiyaçlarına göre açılıp kapatılabilir.
+![](udemig.gif)
 
 
 
